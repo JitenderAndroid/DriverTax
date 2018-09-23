@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.twitter.sdk.android:tweet-ui-1.10.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/tweet-ui-1.10.0.aar/0c0541c73d636cf64de796349254fe76/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/tweet-ui-1.10.0.aar/0c0541c73d636cf64de796349254fe76/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

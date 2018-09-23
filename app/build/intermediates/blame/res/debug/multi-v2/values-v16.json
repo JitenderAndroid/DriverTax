@@ -1,0 +1,57 @@
+{
+    "logs": [
+        {
+            "outputFile": "F:\\wildnet projject\\androidtaxipassenger\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Jitender kumar\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\415f7d5f21fe37b54e805a2e2a333956\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Jitender kumar\\.gradle\\caches\\transforms-1\\files-1.1\\tweet-ui-1.10.0.aar\\e2c4cae1e97c63d6459b04cea120e718\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "245",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "495"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "294",
+                        "endLines": "11",
+                        "endColumns": "12",
+                        "endOffsets": "544"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Jitender kumar\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.2.aar\\016e7f4eba89c02ae9502f75e54ca02c\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}

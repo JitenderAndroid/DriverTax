@@ -1,0 +1,1231 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:2:1-157:12
+INJECTED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:2:1-157:12
+INJECTED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:2:1-157:12
+INJECTED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:2:1-157:12
+MERGED from [com.twitter.sdk.android:twitter:1.13.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\twitter-1.13.0.aar\156dade870a5f4b7959ae14a890644fc\AndroidManifest.xml:18:1-27:12
+MERGED from [com.paypal.sdk:paypal-android-sdk:2.15.3] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\paypal-android-sdk-2.15.3.aar\ecc01c7e2f4f8ebd2dcb31a87d53b27f\AndroidManifest.xml:2:1-28:12
+MERGED from [com.stripe:stripe-android:6.0.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\stripe-android-6.0.0.aar\2d37e99abd6dd085a3e151ec895e70f4\AndroidManifest.xml:2:1-27:12
+MERGED from [com.facebook.android:facebook-android-sdk:4.28.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.28.0.aar\7f137be6519b75a9c0199cf31f1e6ffc\AndroidManifest.xml:21:1-31:12
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\dda41f04fd88889cee76ef271e4de4b0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\2122144e482b7100ad62d92a76e2d055\AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:design:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\design-26.0.2.aar\cc37ae12d9a8c5633c14b0c46e2bb40b\AndroidManifest.xml:17:1-31:12
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.5.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\android-image-cropper-2.5.0.aar\d09126b1d4f78262166358a86200d3c4\AndroidManifest.xml:2:1-12:12
+MERGED from [com.facebook.android:facebook-login:4.28.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\facebook-login-4.28.0.aar\be58b2394b7d3ba1fe8e93db97db8880\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-share:4.28.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\facebook-share-4.28.0.aar\ea2b69db21a04293c6075b409af4b98a\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-common:4.28.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\facebook-common-4.28.0.aar\fe3eb43ec8a9f88bc474dd9b7f04dcd7\AndroidManifest.xml:21:1-36:12
+MERGED from [com.android.support:appcompat-v7:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.2.aar\415f7d5f21fe37b54e805a2e2a333956\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.2.aar\333b73be5db78630e564bde5b6fe59d5\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:cardview-v7:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.0.2.aar\9d1c9f30208a4b7a9e198f70b6a8c364\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-maps:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.2.aar\954af1ad945239d06b882924b70ce966\AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-analytics:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.6.2.aar\5cc6309cb0bb823e738fac35101935b6\AndroidManifest.xml:16:1-33:12
+MERGED from [com.google.android.gms:play-services-gcm:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.6.2.aar\7b0d131e07b74a1ceddd21bcca60f797\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.firebase:firebase-messaging:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.6.2.aar\2dcc9fcc913fe5ca24ce9ee66d403c59\AndroidManifest.xml:16:1-30:12
+MERGED from [com.twitter.sdk.android:tweet-composer:1.0.3] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\tweet-composer-1.0.3.aar\9d89c10886b4e04303af9afb46780aeb\AndroidManifest.xml:18:1-39:12
+MERGED from [com.twitter.sdk.android:tweet-ui:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\tweet-ui-1.10.0.aar\e2c4cae1e97c63d6459b04cea120e718\AndroidManifest.xml:18:1-37:12
+MERGED from [com.victor:lib:1.0.4] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\lib-1.0.4.aar\fb2d104127ab869fb9d86758ec4c3848\AndroidManifest.xml:2:1-16:12
+MERGED from [ch.acra:acra:4.9.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\acra-4.9.2.aar\3f84ee0fce034c10395f908c1da024ad\AndroidManifest.xml:10:6-44:12
+MERGED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:18:1-113:12
+MERGED from [com.twitter.sdk.android:twitter-core:1.6.5] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\twitter-core-1.6.5.aar\4878fa805596fcf18c7a57a62a74b94d\AndroidManifest.xml:18:1-42:12
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\d423b32cc6bbaf045d80a3130268c4b4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-core:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-core-11.6.2.aar\60cbf00b53cbd9dab033d982148ca1ce\AndroidManifest.xml:2:1-6:12
+MERGED from [io.fabric.sdk.android:fabric:1.3.10] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\fabric-1.3.10.aar\c99e3066be5cd8dfec4672b35e2466b8\AndroidManifest.xml:18:1-29:12
+MERGED from [io.card:android-sdk:5.5.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\android-sdk-5.5.0.aar\afd842b4230729984e2ab5f15ebe7b8a\AndroidManifest.xml:2:1-26:12
+MERGED from [com.facebook.android:facebook-places:4.28.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\facebook-places-4.28.0.aar\1d7f85d3d539360bdcd68f7a3bf28197\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-applinks:4.28.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\facebook-applinks-4.28.0.aar\eee0ec597ad4a0c8ac170efb00fed764\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-messenger:4.28.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\facebook-messenger-4.28.0.aar\bbb69e80ab24cee45bfd3167d4ba18a7\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-core:4.28.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\facebook-core-4.28.0.aar\b9ceb27d46d333d4e7c8e7cb89ac145c\AndroidManifest.xml:21:1-45:12
+MERGED from [com.android.support:transition:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\transition-26.0.2.aar\840f7ac8a5a8c4eca820b9cfad95dae2\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-11.6.2.aar\83cbc8cc97f37b1b2d0b30414265f6fd\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.6.2.aar\5be8c421597fa81041c6d67df0b47440\AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-iid:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.6.2.aar\a53fa43bdb7e8022f48e7dca32353d95\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.2.aar\4f9ccfdee26e3a916e5864d8be2b8c6f\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.2.aar\70e52fba4ab3e65d1e9e7e39fff3f999\AndroidManifest.xml:16:1-35:12
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.6.2.aar\0de9baabc0c10ebdaa9f0a2d1d82edb9\AndroidManifest.xml:16:1-29:12
+MERGED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.2.aar\05dedecab84cf878300d732b9e30367a\AndroidManifest.xml:16:1-47:12
+MERGED from [com.google.firebase:firebase-common:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-common-11.6.2.aar\c5189e1214f05cba5b6856e2a0100771\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-tasks:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.6.2.aar\4d00d1aaaec4e706758b3aec443b0e43\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.2.aar\634875bff1239be76d112c136e011555\AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.2.aar\be6e86fb4576e27cf0f05dd1c4aa3ed2\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.2.aar\717893864c647d59e165cc29754f4fa2\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.2.aar\753937b91b166c9b97bfdc1b171e5353\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-fragment:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.2.aar\516be5786a9eb17e9621e4787d12e55a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.2.aar\906995a9b5b86fcd5ec9189028301bbf\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.2.aar\729fdaf20a10b07d88298fe3a7f3f846\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:customtabs:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\customtabs-26.0.2.aar\6cc254d0835a69c85b6c6a4e6d3dc298\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.2.aar\4a316cbf96ad36d70816903e28f6cf74\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.2.aar\016e7f4eba89c02ae9502f75e54ca02c\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:exifinterface:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\exifinterface-26.0.2.aar\a47ffe15fd34edc9ab025a85ef2f53c7\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.6.2.aar\2b460d096bebbc90d2a72a244e93abee\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-analytics-license:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-analytics-license-11.6.2.aar\2cba367f3e4ad45f33a25c6387bf6110\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-gcm-license:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-gcm-license-11.6.2.aar\703321f7b5da8b713b5a83868438460e\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-messaging-license:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-messaging-license-11.6.2.aar\c46e3af6258bd0434ffe919e4d217a00\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-base-license:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.6.2.aar\a6ba7764a224af2f03bb476f450da429\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.2.aar\e5220bd7970c087ef65b5a2e969a86ab\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-license-11.6.2.aar\ad272229ddd234f455fb075d0d2c890b\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-license-11.6.2.aar\e96189ecac8dbbf594848847d653392d\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-iid-license:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-iid-license-11.6.2.aar\fa66c251d1af76e9684f8a1ef3abded8\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-iid-license:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.6.2.aar\813193e29c444628858bc0d3f244b8b6\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-common-license:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.6.2.aar\9c5aae3f7c85fa45ece0536df4b5cf64\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.6.2.aar\4a4443b043aafb936e16ffffd739a40e\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.6.2.aar\791b303936857c0e2086a68bb7a0d25a\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.6.2.aar\7d07e0de5525def9e73444a0ac69f80c\AndroidManifest.xml:2:1-6:12
+INJECTED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:2:1-157:12
+INJECTED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:2:1-157:12
+INJECTED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:2:1-157:12
+	package
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:4:5-33
+		INJECTED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml
+		INJECTED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:2:1-157:12
+		INJECTED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:2:1-157:12
+		INJECTED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WAKE_LOCK
+ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:6:5-68
+MERGED from [com.google.android.gms:play-services-analytics:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.6.2.aar\5cc6309cb0bb823e738fac35101935b6\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.6.2.aar\5cc6309cb0bb823e738fac35101935b6\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.6.2.aar\5be8c421597fa81041c6d67df0b47440\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.6.2.aar\5be8c421597fa81041c6d67df0b47440\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.2.aar\70e52fba4ab3e65d1e9e7e39fff3f999\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.2.aar\70e52fba4ab3e65d1e9e7e39fff3f999\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.6.2.aar\0de9baabc0c10ebdaa9f0a2d1d82edb9\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.6.2.aar\0de9baabc0c10ebdaa9f0a2d1d82edb9\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.2.aar\05dedecab84cf878300d732b9e30367a\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.2.aar\05dedecab84cf878300d732b9e30367a\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:6:22-65
+uses-permission#android.permission.CALL_PHONE
+ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:7:5-69
+	android:name
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:7:22-66
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.INTERNET
+ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:10:5-67
+MERGED from [com.paypal.sdk:paypal-android-sdk:2.15.3] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\paypal-android-sdk-2.15.3.aar\ecc01c7e2f4f8ebd2dcb31a87d53b27f\AndroidManifest.xml:10:5-67
+MERGED from [com.paypal.sdk:paypal-android-sdk:2.15.3] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\paypal-android-sdk-2.15.3.aar\ecc01c7e2f4f8ebd2dcb31a87d53b27f\AndroidManifest.xml:10:5-67
+MERGED from [com.google.android.gms:play-services-maps:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.2.aar\954af1ad945239d06b882924b70ce966\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.2.aar\954af1ad945239d06b882924b70ce966\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.6.2.aar\5cc6309cb0bb823e738fac35101935b6\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.6.2.aar\5cc6309cb0bb823e738fac35101935b6\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-gcm:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.6.2.aar\7b0d131e07b74a1ceddd21bcca60f797\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-gcm:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.6.2.aar\7b0d131e07b74a1ceddd21bcca60f797\AndroidManifest.xml:21:5-66
+MERGED from [com.twitter.sdk.android:tweet-composer:1.0.3] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\tweet-composer-1.0.3.aar\9d89c10886b4e04303af9afb46780aeb\AndroidManifest.xml:25:5-67
+MERGED from [com.twitter.sdk.android:tweet-composer:1.0.3] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\tweet-composer-1.0.3.aar\9d89c10886b4e04303af9afb46780aeb\AndroidManifest.xml:25:5-67
+MERGED from [com.twitter.sdk.android:tweet-ui:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\tweet-ui-1.10.0.aar\e2c4cae1e97c63d6459b04cea120e718\AndroidManifest.xml:25:5-67
+MERGED from [com.twitter.sdk.android:tweet-ui:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\tweet-ui-1.10.0.aar\e2c4cae1e97c63d6459b04cea120e718\AndroidManifest.xml:25:5-67
+MERGED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:25:5-67
+MERGED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:25:5-67
+MERGED from [com.twitter.sdk.android:twitter-core:1.6.5] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\twitter-core-1.6.5.aar\4878fa805596fcf18c7a57a62a74b94d\AndroidManifest.xml:25:5-67
+MERGED from [com.twitter.sdk.android:twitter-core:1.6.5] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\twitter-core-1.6.5.aar\4878fa805596fcf18c7a57a62a74b94d\AndroidManifest.xml:25:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.3.10] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\fabric-1.3.10.aar\c99e3066be5cd8dfec4672b35e2466b8\AndroidManifest.xml:25:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.3.10] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\fabric-1.3.10.aar\c99e3066be5cd8dfec4672b35e2466b8\AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.6.2.aar\5be8c421597fa81041c6d67df0b47440\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.6.2.aar\5be8c421597fa81041c6d67df0b47440\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-iid:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.6.2.aar\a53fa43bdb7e8022f48e7dca32353d95\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.6.2.aar\a53fa43bdb7e8022f48e7dca32353d95\AndroidManifest.xml:21:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.2.aar\70e52fba4ab3e65d1e9e7e39fff3f999\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.2.aar\70e52fba4ab3e65d1e9e7e39fff3f999\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.6.2.aar\0de9baabc0c10ebdaa9f0a2d1d82edb9\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.6.2.aar\0de9baabc0c10ebdaa9f0a2d1d82edb9\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.2.aar\05dedecab84cf878300d732b9e30367a\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.2.aar\05dedecab84cf878300d732b9e30367a\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:10:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:11:5-79
+MERGED from [com.paypal.sdk:paypal-android-sdk:2.15.3] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\paypal-android-sdk-2.15.3.aar\ecc01c7e2f4f8ebd2dcb31a87d53b27f\AndroidManifest.xml:9:5-79
+MERGED from [com.paypal.sdk:paypal-android-sdk:2.15.3] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\paypal-android-sdk-2.15.3.aar\ecc01c7e2f4f8ebd2dcb31a87d53b27f\AndroidManifest.xml:9:5-79
+MERGED from [com.google.android.gms:play-services-maps:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.2.aar\954af1ad945239d06b882924b70ce966\AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-maps:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.2.aar\954af1ad945239d06b882924b70ce966\AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-analytics:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.6.2.aar\5cc6309cb0bb823e738fac35101935b6\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.6.2.aar\5cc6309cb0bb823e738fac35101935b6\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.6.2.aar\5be8c421597fa81041c6d67df0b47440\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.6.2.aar\5be8c421597fa81041c6d67df0b47440\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.2.aar\70e52fba4ab3e65d1e9e7e39fff3f999\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.2.aar\70e52fba4ab3e65d1e9e7e39fff3f999\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.6.2.aar\0de9baabc0c10ebdaa9f0a2d1d82edb9\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.6.2.aar\0de9baabc0c10ebdaa9f0a2d1d82edb9\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.2.aar\05dedecab84cf878300d732b9e30367a\AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.2.aar\05dedecab84cf878300d732b9e30367a\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.CAMERA
+ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:12:5-65
+MERGED from [io.card:android-sdk:5.5.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\android-sdk-5.5.0.aar\afd842b4230729984e2ab5f15ebe7b8a\AndroidManifest.xml:9:5-65
+MERGED from [io.card:android-sdk:5.5.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\android-sdk-5.5.0.aar\afd842b4230729984e2ab5f15ebe7b8a\AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:12:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:14:22-77
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:15:5-73
+	android:name
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:15:22-70
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:16:5-82
+MERGED from [com.google.android.gms:play-services-gcm:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.6.2.aar\7b0d131e07b74a1ceddd21bcca60f797\AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-gcm:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.6.2.aar\7b0d131e07b74a1ceddd21bcca60f797\AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.6.2.aar\a53fa43bdb7e8022f48e7dca32353d95\AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.6.2.aar\a53fa43bdb7e8022f48e7dca32353d95\AndroidManifest.xml:20:5-81
+MERGED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.2.aar\05dedecab84cf878300d732b9e30367a\AndroidManifest.xml:23:5-81
+MERGED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.2.aar\05dedecab84cf878300d732b9e30367a\AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:16:22-79
+uses-permission#android.permission.MEDIA_CONTENT_CONTROL
+ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:17:5-80
+	android:name
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:17:22-77
+application
+ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:21:5-155:19
+MERGED from [com.twitter.sdk.android:twitter:1.13.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\twitter-1.13.0.aar\156dade870a5f4b7959ae14a890644fc\AndroidManifest.xml:25:5-20
+MERGED from [com.twitter.sdk.android:twitter:1.13.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\twitter-1.13.0.aar\156dade870a5f4b7959ae14a890644fc\AndroidManifest.xml:25:5-20
+MERGED from [com.paypal.sdk:paypal-android-sdk:2.15.3] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\paypal-android-sdk-2.15.3.aar\ecc01c7e2f4f8ebd2dcb31a87d53b27f\AndroidManifest.xml:12:5-26:19
+MERGED from [com.paypal.sdk:paypal-android-sdk:2.15.3] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\paypal-android-sdk-2.15.3.aar\ecc01c7e2f4f8ebd2dcb31a87d53b27f\AndroidManifest.xml:12:5-26:19
+MERGED from [com.stripe:stripe-android:6.0.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\stripe-android-6.0.0.aar\2d37e99abd6dd085a3e151ec895e70f4\AndroidManifest.xml:11:5-25:19
+MERGED from [com.stripe:stripe-android:6.0.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\stripe-android-6.0.0.aar\2d37e99abd6dd085a3e151ec895e70f4\AndroidManifest.xml:11:5-25:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.28.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.28.0.aar\7f137be6519b75a9c0199cf31f1e6ffc\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.28.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.28.0.aar\7f137be6519b75a9c0199cf31f1e6ffc\AndroidManifest.xml:28:5-29:19
+MERGED from [com.android.support:design:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\design-26.0.2.aar\cc37ae12d9a8c5633c14b0c46e2bb40b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\design-26.0.2.aar\cc37ae12d9a8c5633c14b0c46e2bb40b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.28.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\facebook-login-4.28.0.aar\be58b2394b7d3ba1fe8e93db97db8880\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.28.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\facebook-login-4.28.0.aar\be58b2394b7d3ba1fe8e93db97db8880\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.28.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\facebook-share-4.28.0.aar\ea2b69db21a04293c6075b409af4b98a\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.28.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\facebook-share-4.28.0.aar\ea2b69db21a04293c6075b409af4b98a\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-common:4.28.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\facebook-common-4.28.0.aar\fe3eb43ec8a9f88bc474dd9b7f04dcd7\AndroidManifest.xml:28:5-34:19
+MERGED from [com.facebook.android:facebook-common:4.28.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\facebook-common-4.28.0.aar\fe3eb43ec8a9f88bc474dd9b7f04dcd7\AndroidManifest.xml:28:5-34:19
+MERGED from [com.android.support:appcompat-v7:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.2.aar\415f7d5f21fe37b54e805a2e2a333956\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.2.aar\415f7d5f21fe37b54e805a2e2a333956\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.2.aar\333b73be5db78630e564bde5b6fe59d5\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.2.aar\333b73be5db78630e564bde5b6fe59d5\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.0.2.aar\9d1c9f30208a4b7a9e198f70b6a8c364\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.0.2.aar\9d1c9f30208a4b7a9e198f70b6a8c364\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-maps:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.2.aar\954af1ad945239d06b882924b70ce966\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-maps:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.2.aar\954af1ad945239d06b882924b70ce966\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-analytics:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.6.2.aar\5cc6309cb0bb823e738fac35101935b6\AndroidManifest.xml:26:5-31:19
+MERGED from [com.google.android.gms:play-services-analytics:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.6.2.aar\5cc6309cb0bb823e738fac35101935b6\AndroidManifest.xml:26:5-31:19
+MERGED from [com.google.android.gms:play-services-gcm:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.6.2.aar\7b0d131e07b74a1ceddd21bcca60f797\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-gcm:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.6.2.aar\7b0d131e07b74a1ceddd21bcca60f797\AndroidManifest.xml:23:5-19
+MERGED from [com.google.firebase:firebase-messaging:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.6.2.aar\2dcc9fcc913fe5ca24ce9ee66d403c59\AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.firebase:firebase-messaging:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.6.2.aar\2dcc9fcc913fe5ca24ce9ee66d403c59\AndroidManifest.xml:19:5-29:19
+MERGED from [com.twitter.sdk.android:tweet-composer:1.0.3] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\tweet-composer-1.0.3.aar\9d89c10886b4e04303af9afb46780aeb\AndroidManifest.xml:27:5-37:19
+MERGED from [com.twitter.sdk.android:tweet-composer:1.0.3] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\tweet-composer-1.0.3.aar\9d89c10886b4e04303af9afb46780aeb\AndroidManifest.xml:27:5-37:19
+MERGED from [com.twitter.sdk.android:tweet-ui:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\tweet-ui-1.10.0.aar\e2c4cae1e97c63d6459b04cea120e718\AndroidManifest.xml:27:5-35:19
+MERGED from [com.twitter.sdk.android:tweet-ui:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\tweet-ui-1.10.0.aar\e2c4cae1e97c63d6459b04cea120e718\AndroidManifest.xml:27:5-35:19
+MERGED from [com.victor:lib:1.0.4] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\lib-1.0.4.aar\fb2d104127ab869fb9d86758ec4c3848\AndroidManifest.xml:11:5-14:19
+MERGED from [com.victor:lib:1.0.4] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\lib-1.0.4.aar\fb2d104127ab869fb9d86758ec4c3848\AndroidManifest.xml:11:5-14:19
+MERGED from [ch.acra:acra:4.9.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\acra-4.9.2.aar\3f84ee0fce034c10395f908c1da024ad\AndroidManifest.xml:39:5-43:19
+MERGED from [ch.acra:acra:4.9.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\acra-4.9.2.aar\3f84ee0fce034c10395f908c1da024ad\AndroidManifest.xml:39:5-43:19
+MERGED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:27:5-111:19
+MERGED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:27:5-111:19
+MERGED from [com.twitter.sdk.android:twitter-core:1.6.5] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\twitter-core-1.6.5.aar\4878fa805596fcf18c7a57a62a74b94d\AndroidManifest.xml:27:5-40:19
+MERGED from [com.twitter.sdk.android:twitter-core:1.6.5] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\twitter-core-1.6.5.aar\4878fa805596fcf18c7a57a62a74b94d\AndroidManifest.xml:27:5-40:19
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\d423b32cc6bbaf045d80a3130268c4b4\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\d423b32cc6bbaf045d80a3130268c4b4\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-core:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-core-11.6.2.aar\60cbf00b53cbd9dab033d982148ca1ce\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-core-11.6.2.aar\60cbf00b53cbd9dab033d982148ca1ce\AndroidManifest.xml:5:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.3.10] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\fabric-1.3.10.aar\c99e3066be5cd8dfec4672b35e2466b8\AndroidManifest.xml:27:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.3.10] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\fabric-1.3.10.aar\c99e3066be5cd8dfec4672b35e2466b8\AndroidManifest.xml:27:5-20
+MERGED from [io.card:android-sdk:5.5.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\android-sdk-5.5.0.aar\afd842b4230729984e2ab5f15ebe7b8a\AndroidManifest.xml:19:5-24:19
+MERGED from [io.card:android-sdk:5.5.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\android-sdk-5.5.0.aar\afd842b4230729984e2ab5f15ebe7b8a\AndroidManifest.xml:19:5-24:19
+MERGED from [com.facebook.android:facebook-places:4.28.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\facebook-places-4.28.0.aar\1d7f85d3d539360bdcd68f7a3bf28197\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-places:4.28.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\facebook-places-4.28.0.aar\1d7f85d3d539360bdcd68f7a3bf28197\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.28.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\facebook-applinks-4.28.0.aar\eee0ec597ad4a0c8ac170efb00fed764\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.28.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\facebook-applinks-4.28.0.aar\eee0ec597ad4a0c8ac170efb00fed764\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.28.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\facebook-messenger-4.28.0.aar\bbb69e80ab24cee45bfd3167d4ba18a7\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.28.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\facebook-messenger-4.28.0.aar\bbb69e80ab24cee45bfd3167d4ba18a7\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-core:4.28.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\facebook-core-4.28.0.aar\b9ceb27d46d333d4e7c8e7cb89ac145c\AndroidManifest.xml:28:5-43:19
+MERGED from [com.facebook.android:facebook-core:4.28.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\facebook-core-4.28.0.aar\b9ceb27d46d333d4e7c8e7cb89ac145c\AndroidManifest.xml:28:5-43:19
+MERGED from [com.android.support:transition:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\transition-26.0.2.aar\840f7ac8a5a8c4eca820b9cfad95dae2\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\transition-26.0.2.aar\840f7ac8a5a8c4eca820b9cfad95dae2\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-11.6.2.aar\83cbc8cc97f37b1b2d0b30414265f6fd\AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-11.6.2.aar\83cbc8cc97f37b1b2d0b30414265f6fd\AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.6.2.aar\5be8c421597fa81041c6d67df0b47440\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.6.2.aar\5be8c421597fa81041c6d67df0b47440\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-iid:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.6.2.aar\a53fa43bdb7e8022f48e7dca32353d95\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-iid:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.6.2.aar\a53fa43bdb7e8022f48e7dca32353d95\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.2.aar\4f9ccfdee26e3a916e5864d8be2b8c6f\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.2.aar\4f9ccfdee26e3a916e5864d8be2b8c6f\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.2.aar\70e52fba4ab3e65d1e9e7e39fff3f999\AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.2.aar\70e52fba4ab3e65d1e9e7e39fff3f999\AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.6.2.aar\0de9baabc0c10ebdaa9f0a2d1d82edb9\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.6.2.aar\0de9baabc0c10ebdaa9f0a2d1d82edb9\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.2.aar\05dedecab84cf878300d732b9e30367a\AndroidManifest.xml:29:5-46:19
+MERGED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.2.aar\05dedecab84cf878300d732b9e30367a\AndroidManifest.xml:29:5-46:19
+MERGED from [com.google.firebase:firebase-common:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-common-11.6.2.aar\c5189e1214f05cba5b6856e2a0100771\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.firebase:firebase-common:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-common-11.6.2.aar\c5189e1214f05cba5b6856e2a0100771\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.6.2.aar\4d00d1aaaec4e706758b3aec443b0e43\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.6.2.aar\4d00d1aaaec4e706758b3aec443b0e43\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.2.aar\634875bff1239be76d112c136e011555\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.2.aar\634875bff1239be76d112c136e011555\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.2.aar\be6e86fb4576e27cf0f05dd1c4aa3ed2\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.2.aar\be6e86fb4576e27cf0f05dd1c4aa3ed2\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.2.aar\717893864c647d59e165cc29754f4fa2\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.2.aar\717893864c647d59e165cc29754f4fa2\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.2.aar\753937b91b166c9b97bfdc1b171e5353\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.2.aar\753937b91b166c9b97bfdc1b171e5353\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-fragment:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.2.aar\516be5786a9eb17e9621e4787d12e55a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.2.aar\516be5786a9eb17e9621e4787d12e55a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.2.aar\906995a9b5b86fcd5ec9189028301bbf\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.2.aar\906995a9b5b86fcd5ec9189028301bbf\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.2.aar\729fdaf20a10b07d88298fe3a7f3f846\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.2.aar\729fdaf20a10b07d88298fe3a7f3f846\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:customtabs:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\customtabs-26.0.2.aar\6cc254d0835a69c85b6c6a4e6d3dc298\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:customtabs:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\customtabs-26.0.2.aar\6cc254d0835a69c85b6c6a4e6d3dc298\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-media-compat:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.2.aar\4a316cbf96ad36d70816903e28f6cf74\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.2.aar\4a316cbf96ad36d70816903e28f6cf74\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.2.aar\016e7f4eba89c02ae9502f75e54ca02c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.2.aar\016e7f4eba89c02ae9502f75e54ca02c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:exifinterface:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\exifinterface-26.0.2.aar\a47ffe15fd34edc9ab025a85ef2f53c7\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:exifinterface:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\exifinterface-26.0.2.aar\a47ffe15fd34edc9ab025a85ef2f53c7\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.6.2.aar\2b460d096bebbc90d2a72a244e93abee\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.6.2.aar\2b460d096bebbc90d2a72a244e93abee\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-analytics-license:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-analytics-license-11.6.2.aar\2cba367f3e4ad45f33a25c6387bf6110\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-analytics-license:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-analytics-license-11.6.2.aar\2cba367f3e4ad45f33a25c6387bf6110\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-gcm-license:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-gcm-license-11.6.2.aar\703321f7b5da8b713b5a83868438460e\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-gcm-license:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-gcm-license-11.6.2.aar\703321f7b5da8b713b5a83868438460e\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-messaging-license-11.6.2.aar\c46e3af6258bd0434ffe919e4d217a00\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-messaging-license-11.6.2.aar\c46e3af6258bd0434ffe919e4d217a00\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.6.2.aar\a6ba7764a224af2f03bb476f450da429\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.6.2.aar\a6ba7764a224af2f03bb476f450da429\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.2.aar\e5220bd7970c087ef65b5a2e969a86ab\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.2.aar\e5220bd7970c087ef65b5a2e969a86ab\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-license-11.6.2.aar\ad272229ddd234f455fb075d0d2c890b\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-license-11.6.2.aar\ad272229ddd234f455fb075d0d2c890b\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-license-11.6.2.aar\e96189ecac8dbbf594848847d653392d\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-license-11.6.2.aar\e96189ecac8dbbf594848847d653392d\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-iid-license:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-iid-license-11.6.2.aar\fa66c251d1af76e9684f8a1ef3abded8\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-iid-license:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-iid-license-11.6.2.aar\fa66c251d1af76e9684f8a1ef3abded8\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-iid-license:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.6.2.aar\813193e29c444628858bc0d3f244b8b6\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-iid-license:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.6.2.aar\813193e29c444628858bc0d3f244b8b6\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.6.2.aar\9c5aae3f7c85fa45ece0536df4b5cf64\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.6.2.aar\9c5aae3f7c85fa45ece0536df4b5cf64\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.6.2.aar\4a4443b043aafb936e16ffffd739a40e\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.6.2.aar\4a4443b043aafb936e16ffffd739a40e\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.6.2.aar\791b303936857c0e2086a68bb7a0d25a\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.6.2.aar\791b303936857c0e2086a68bb7a0d25a\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.6.2.aar\7d07e0de5525def9e73444a0ac69f80c\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.6.2.aar\7d07e0de5525def9e73444a0ac69f80c\AndroidManifest.xml:5:5-20
+	android:supportsRtl
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:25:9-35
+	android:label
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:24:9-41
+	android:allowBackup
+		ADDED from [com.victor:lib:1.0.4] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\lib-1.0.4.aar\fb2d104127ab869fb9d86758ec4c3848\AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:23:9-43
+	android:theme
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:26:9-40
+	android:name
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:22:9-58
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:28:9-30:55
+	android:value
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:30:13-52
+	android:name
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:29:13-58
+meta-data#com.google.android.geo.API_KEY
+ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:32:9-34:55
+	android:value
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:34:13-52
+	android:name
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:33:13-58
+activity#com.taxi.passenger.activity.SplashActivity
+ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:36:9-44:20
+	android:screenOrientation
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:38:13-49
+	android:name
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:37:13-70
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:39:13-43:29
+action#android.intent.action.MAIN
+ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:40:17-69
+	android:name
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:40:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:42:17-77
+	android:name
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:42:27-74
+activity#com.taxi.passenger.activity.LoginActivity
+ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:45:9-48:55
+	android:screenOrientation
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:47:13-49
+	android:windowSoftInputMode
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:48:13-52
+	android:name
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:46:13-69
+activity#com.taxi.passenger.activity.MainActivity
+ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:49:9-51:52
+	android:screenOrientation
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:51:13-49
+	android:name
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:50:13-68
+activity#com.taxi.passenger.SignUpMvp.SignUpActivity
+ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:52:9-54:52
+	android:screenOrientation
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:54:13-49
+	android:name
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:53:13-71
+activity#com.taxi.passenger.activity.HomeActivity
+ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:55:9-58:55
+	android:screenOrientation
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:57:13-49
+	android:windowSoftInputMode
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:58:13-52
+	android:name
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:56:13-68
+activity#com.taxi.passenger.ForgotPasswordMvp.ForgotActivity
+ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:59:9-61:52
+	android:screenOrientation
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:61:13-49
+	android:name
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:60:13-79
+receiver#com.taxi.passenger.utils.MyTwitterResultReceiver
+ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:63:9-70:20
+	android:exported
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:65:13-37
+	android:name
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:64:13-76
+intent-filter#com.twitter.sdk.android.tweetcomposer.UPLOAD_FAILURE+com.twitter.sdk.android.tweetcomposer.UPLOAD_SUCCESS
+ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:66:13-69:29
+action#com.twitter.sdk.android.tweetcomposer.UPLOAD_SUCCESS
+ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:67:17-95
+	android:name
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:67:25-92
+action#com.twitter.sdk.android.tweetcomposer.UPLOAD_FAILURE
+ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:68:17-95
+	android:name
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:68:25-92
+activity#com.facebook.FacebookActivity
+ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:72:9-77:45
+MERGED from [com.facebook.android:facebook-common:4.28.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\facebook-common-4.28.0.aar\fe3eb43ec8a9f88bc474dd9b7f04dcd7\AndroidManifest.xml:29:9-32:66
+MERGED from [com.facebook.android:facebook-common:4.28.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\facebook-common-4.28.0.aar\fe3eb43ec8a9f88bc474dd9b7f04dcd7\AndroidManifest.xml:29:9-32:66
+	android:label
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:75:13-45
+	android:configChanges
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:74:13-96
+	android:theme
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:76:13-72
+		REJECTED from [com.facebook.android:facebook-common:4.28.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\facebook-common-4.28.0.aar\fe3eb43ec8a9f88bc474dd9b7f04dcd7\AndroidManifest.xml:32:13-63
+	tools:replace
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:77:13-42
+	android:name
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:73:13-57
+activity#com.taxi.passenger.TripsMvp.TripDetailActivity
+ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:79:9-81:52
+	android:screenOrientation
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:81:13-49
+	android:name
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:80:13-74
+activity#com.taxi.passenger.activity.AllTripActivity
+ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:82:9-84:52
+	android:screenOrientation
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:84:13-49
+	android:name
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:83:13-71
+activity#com.taxi.passenger.activity.BookingDetailActivity
+ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:85:9-87:52
+	android:screenOrientation
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:87:13-49
+	android:name
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:86:13-77
+activity#com.taxi.passenger.activity.UserProfileActivity
+ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:88:9-92:47
+	android:screenOrientation
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:91:13-49
+	android:label
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:90:13-64
+	android:theme
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:92:13-44
+	android:name
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:89:13-75
+activity#com.taxi.passenger.activity.TrackTruckActivity
+ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:93:9-95:52
+	android:screenOrientation
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:95:13-49
+	android:name
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:94:13-74
+activity#com.taxi.passenger.activity.TestMapActivity
+ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:96:9-98:52
+	android:screenOrientation
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:98:13-49
+	android:name
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:97:13-71
+activity#com.taxi.passenger.ChangePasswordMvp.ChangePasswordActivity
+ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:99:9-102:68
+	android:screenOrientation
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:101:13-49
+	android:windowSoftInputMode
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:102:13-65
+	android:name
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:100:13-87
+service#com.paypal.android.sdk.payments.PayPalService
+ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:104:9-106:40
+MERGED from [com.paypal.sdk:paypal-android-sdk:2.15.3] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\paypal-android-sdk-2.15.3.aar\ecc01c7e2f4f8ebd2dcb31a87d53b27f\AndroidManifest.xml:23:9-25:40
+MERGED from [com.paypal.sdk:paypal-android-sdk:2.15.3] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\paypal-android-sdk-2.15.3.aar\ecc01c7e2f4f8ebd2dcb31a87d53b27f\AndroidManifest.xml:23:9-25:40
+	android:exported
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:106:13-37
+	android:name
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:105:13-73
+activity#com.paypal.android.sdk.payments.PaymentActivity
+ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:108:9-84
+MERGED from [com.paypal.sdk:paypal-android-sdk:2.15.3] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\paypal-android-sdk-2.15.3.aar\ecc01c7e2f4f8ebd2dcb31a87d53b27f\AndroidManifest.xml:13:9-84
+MERGED from [com.paypal.sdk:paypal-android-sdk:2.15.3] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\paypal-android-sdk-2.15.3.aar\ecc01c7e2f4f8ebd2dcb31a87d53b27f\AndroidManifest.xml:13:9-84
+	android:name
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:108:19-81
+activity#com.paypal.android.sdk.payments.LoginActivity
+ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:109:9-82
+MERGED from [com.paypal.sdk:paypal-android-sdk:2.15.3] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\paypal-android-sdk-2.15.3.aar\ecc01c7e2f4f8ebd2dcb31a87d53b27f\AndroidManifest.xml:16:9-82
+MERGED from [com.paypal.sdk:paypal-android-sdk:2.15.3] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\paypal-android-sdk-2.15.3.aar\ecc01c7e2f4f8ebd2dcb31a87d53b27f\AndroidManifest.xml:16:9-82
+	android:name
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:109:19-79
+activity#com.paypal.android.sdk.payments.PaymentMethodActivity
+ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:110:9-90
+MERGED from [com.paypal.sdk:paypal-android-sdk:2.15.3] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\paypal-android-sdk-2.15.3.aar\ecc01c7e2f4f8ebd2dcb31a87d53b27f\AndroidManifest.xml:14:9-90
+MERGED from [com.paypal.sdk:paypal-android-sdk:2.15.3] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\paypal-android-sdk-2.15.3.aar\ecc01c7e2f4f8ebd2dcb31a87d53b27f\AndroidManifest.xml:14:9-90
+	android:name
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:110:19-87
+activity#com.paypal.android.sdk.payments.PaymentConfirmActivity
+ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:111:9-91
+MERGED from [com.paypal.sdk:paypal-android-sdk:2.15.3] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\paypal-android-sdk-2.15.3.aar\ecc01c7e2f4f8ebd2dcb31a87d53b27f\AndroidManifest.xml:15:9-91
+MERGED from [com.paypal.sdk:paypal-android-sdk:2.15.3] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\paypal-android-sdk-2.15.3.aar\ecc01c7e2f4f8ebd2dcb31a87d53b27f\AndroidManifest.xml:15:9-91
+	android:name
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:111:19-88
+activity#io.card.payment.CardIOActivity
+ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:112:9-114:66
+MERGED from [io.card:android-sdk:5.5.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\android-sdk-5.5.0.aar\afd842b4230729984e2ab5f15ebe7b8a\AndroidManifest.xml:20:9-22:66
+MERGED from [io.card:android-sdk:5.5.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\android-sdk-5.5.0.aar\afd842b4230729984e2ab5f15ebe7b8a\AndroidManifest.xml:20:9-22:66
+	android:configChanges
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:114:13-63
+	android:name
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:113:13-58
+activity#io.card.payment.DataEntryActivity
+ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:115:9-70
+MERGED from [io.card:android-sdk:5.5.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\android-sdk-5.5.0.aar\afd842b4230729984e2ab5f15ebe7b8a\AndroidManifest.xml:23:9-70
+MERGED from [io.card:android-sdk:5.5.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\android-sdk-5.5.0.aar\afd842b4230729984e2ab5f15ebe7b8a\AndroidManifest.xml:23:9-70
+	android:name
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:115:19-67
+activity#com.taxi.passenger.activity.StripeFormActivity
+ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:116:9-83
+	android:name
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:116:19-80
+receiver#com.google.android.gms.gcm.GcmReceiver
+ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:118:9-128:20
+	android:exported
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:120:13-36
+	android:permission
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:121:13-73
+	android:name
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:119:13-66
+intent-filter#com.google.android.c2dm.intent.RECEIVE+com.taxi.passenger
+ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:122:13-127:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:123:17-81
+	android:name
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:123:25-78
+category#com.taxi.passenger
+ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:125:17-63
+	android:name
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:125:27-60
+activity#com.taxi.passenger.activity.RateCardActivity
+ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:130:9-81
+	android:name
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:130:19-78
+activity#com.taxi.passenger.activity.AutocompleteFrgActivity
+ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:131:9-97
+	android:name
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:131:19-85
+activity#com.taxi.passenger.FCM.Main2Activity
+ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:133:9-136:56
+	android:theme
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:136:13-44
+	android:name
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:134:13-64
+activity#com.taxi.passenger.RatingMVP.AfterRideActivity
+ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:139:9-142:56
+	android:theme
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:142:13-44
+	android:name
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:140:13-74
+service#com.taxi.passenger.FCM.MyFireBaseInstantIDService
+ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:145:9-149:19
+	android:name
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:145:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:146:13-148:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:147:17-80
+	android:name
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:147:25-77
+service#com.taxi.passenger.FCM.MyFireBaseMessagingService
+ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:150:9-154:19
+	android:name
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:150:18-82
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:151:13-153:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:152:17-78
+	android:name
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml:152:25-75
+uses-sdk
+INJECTED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml
+INJECTED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml
+MERGED from [com.twitter.sdk.android:twitter:1.13.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\twitter-1.13.0.aar\156dade870a5f4b7959ae14a890644fc\AndroidManifest.xml:23:5-43
+MERGED from [com.twitter.sdk.android:twitter:1.13.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\twitter-1.13.0.aar\156dade870a5f4b7959ae14a890644fc\AndroidManifest.xml:23:5-43
+MERGED from [com.paypal.sdk:paypal-android-sdk:2.15.3] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\paypal-android-sdk-2.15.3.aar\ecc01c7e2f4f8ebd2dcb31a87d53b27f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.paypal.sdk:paypal-android-sdk:2.15.3] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\paypal-android-sdk-2.15.3.aar\ecc01c7e2f4f8ebd2dcb31a87d53b27f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.stripe:stripe-android:6.0.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\stripe-android-6.0.0.aar\2d37e99abd6dd085a3e151ec895e70f4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.stripe:stripe-android:6.0.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\stripe-android-6.0.0.aar\2d37e99abd6dd085a3e151ec895e70f4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.28.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.28.0.aar\7f137be6519b75a9c0199cf31f1e6ffc\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.28.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.28.0.aar\7f137be6519b75a9c0199cf31f1e6ffc\AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\dda41f04fd88889cee76ef271e4de4b0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\dda41f04fd88889cee76ef271e4de4b0\AndroidManifest.xml:20:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\2122144e482b7100ad62d92a76e2d055\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\2122144e482b7100ad62d92a76e2d055\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:design:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\design-26.0.2.aar\cc37ae12d9a8c5633c14b0c46e2bb40b\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\design-26.0.2.aar\cc37ae12d9a8c5633c14b0c46e2bb40b\AndroidManifest.xml:21:5-23:62
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.5.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\android-image-cropper-2.5.0.aar\d09126b1d4f78262166358a86200d3c4\AndroidManifest.xml:8:5-10:41
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.5.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\android-image-cropper-2.5.0.aar\d09126b1d4f78262166358a86200d3c4\AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.android:facebook-login:4.28.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\facebook-login-4.28.0.aar\be58b2394b7d3ba1fe8e93db97db8880\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.28.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\facebook-login-4.28.0.aar\be58b2394b7d3ba1fe8e93db97db8880\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.28.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\facebook-share-4.28.0.aar\ea2b69db21a04293c6075b409af4b98a\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.28.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\facebook-share-4.28.0.aar\ea2b69db21a04293c6075b409af4b98a\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.28.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\facebook-common-4.28.0.aar\fe3eb43ec8a9f88bc474dd9b7f04dcd7\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.28.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\facebook-common-4.28.0.aar\fe3eb43ec8a9f88bc474dd9b7f04dcd7\AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:appcompat-v7:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.2.aar\415f7d5f21fe37b54e805a2e2a333956\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.2.aar\415f7d5f21fe37b54e805a2e2a333956\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:recyclerview-v7:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.2.aar\333b73be5db78630e564bde5b6fe59d5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.2.aar\333b73be5db78630e564bde5b6fe59d5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.0.2.aar\9d1c9f30208a4b7a9e198f70b6a8c364\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.0.2.aar\9d1c9f30208a4b7a9e198f70b6a8c364\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.2.aar\954af1ad945239d06b882924b70ce966\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.2.aar\954af1ad945239d06b882924b70ce966\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-analytics:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.6.2.aar\5cc6309cb0bb823e738fac35101935b6\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.6.2.aar\5cc6309cb0bb823e738fac35101935b6\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gcm:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.6.2.aar\7b0d131e07b74a1ceddd21bcca60f797\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gcm:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.6.2.aar\7b0d131e07b74a1ceddd21bcca60f797\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-messaging:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.6.2.aar\2dcc9fcc913fe5ca24ce9ee66d403c59\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-messaging:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.6.2.aar\2dcc9fcc913fe5ca24ce9ee66d403c59\AndroidManifest.xml:17:5-43
+MERGED from [com.twitter.sdk.android:tweet-composer:1.0.3] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\tweet-composer-1.0.3.aar\9d89c10886b4e04303af9afb46780aeb\AndroidManifest.xml:23:5-43
+MERGED from [com.twitter.sdk.android:tweet-composer:1.0.3] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\tweet-composer-1.0.3.aar\9d89c10886b4e04303af9afb46780aeb\AndroidManifest.xml:23:5-43
+MERGED from [com.twitter.sdk.android:tweet-ui:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\tweet-ui-1.10.0.aar\e2c4cae1e97c63d6459b04cea120e718\AndroidManifest.xml:23:5-43
+MERGED from [com.twitter.sdk.android:tweet-ui:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\tweet-ui-1.10.0.aar\e2c4cae1e97c63d6459b04cea120e718\AndroidManifest.xml:23:5-43
+MERGED from [com.victor:lib:1.0.4] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\lib-1.0.4.aar\fb2d104127ab869fb9d86758ec4c3848\AndroidManifest.xml:7:5-9:41
+MERGED from [com.victor:lib:1.0.4] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\lib-1.0.4.aar\fb2d104127ab869fb9d86758ec4c3848\AndroidManifest.xml:7:5-9:41
+MERGED from [ch.acra:acra:4.9.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\acra-4.9.2.aar\3f84ee0fce034c10395f908c1da024ad\AndroidManifest.xml:37:5-42
+MERGED from [ch.acra:acra:4.9.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\acra-4.9.2.aar\3f84ee0fce034c10395f908c1da024ad\AndroidManifest.xml:37:5-42
+MERGED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:23:5-43
+MERGED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:23:5-43
+MERGED from [com.twitter.sdk.android:twitter-core:1.6.5] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\twitter-core-1.6.5.aar\4878fa805596fcf18c7a57a62a74b94d\AndroidManifest.xml:23:5-43
+MERGED from [com.twitter.sdk.android:twitter-core:1.6.5] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\twitter-core-1.6.5.aar\4878fa805596fcf18c7a57a62a74b94d\AndroidManifest.xml:23:5-43
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\d423b32cc6bbaf045d80a3130268c4b4\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\d423b32cc6bbaf045d80a3130268c4b4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-core:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-core-11.6.2.aar\60cbf00b53cbd9dab033d982148ca1ce\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-core-11.6.2.aar\60cbf00b53cbd9dab033d982148ca1ce\AndroidManifest.xml:4:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.3.10] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\fabric-1.3.10.aar\c99e3066be5cd8dfec4672b35e2466b8\AndroidManifest.xml:23:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.3.10] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\fabric-1.3.10.aar\c99e3066be5cd8dfec4672b35e2466b8\AndroidManifest.xml:23:5-43
+MERGED from [io.card:android-sdk:5.5.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\android-sdk-5.5.0.aar\afd842b4230729984e2ab5f15ebe7b8a\AndroidManifest.xml:5:5-7:41
+MERGED from [io.card:android-sdk:5.5.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\android-sdk-5.5.0.aar\afd842b4230729984e2ab5f15ebe7b8a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.android:facebook-places:4.28.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\facebook-places-4.28.0.aar\1d7f85d3d539360bdcd68f7a3bf28197\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-places:4.28.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\facebook-places-4.28.0.aar\1d7f85d3d539360bdcd68f7a3bf28197\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.28.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\facebook-applinks-4.28.0.aar\eee0ec597ad4a0c8ac170efb00fed764\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.28.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\facebook-applinks-4.28.0.aar\eee0ec597ad4a0c8ac170efb00fed764\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.28.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\facebook-messenger-4.28.0.aar\bbb69e80ab24cee45bfd3167d4ba18a7\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.28.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\facebook-messenger-4.28.0.aar\bbb69e80ab24cee45bfd3167d4ba18a7\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.28.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\facebook-core-4.28.0.aar\b9ceb27d46d333d4e7c8e7cb89ac145c\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.28.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\facebook-core-4.28.0.aar\b9ceb27d46d333d4e7c8e7cb89ac145c\AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:transition:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\transition-26.0.2.aar\840f7ac8a5a8c4eca820b9cfad95dae2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\transition-26.0.2.aar\840f7ac8a5a8c4eca820b9cfad95dae2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-11.6.2.aar\83cbc8cc97f37b1b2d0b30414265f6fd\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-11.6.2.aar\83cbc8cc97f37b1b2d0b30414265f6fd\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.6.2.aar\5be8c421597fa81041c6d67df0b47440\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.6.2.aar\5be8c421597fa81041c6d67df0b47440\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.6.2.aar\a53fa43bdb7e8022f48e7dca32353d95\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.6.2.aar\a53fa43bdb7e8022f48e7dca32353d95\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.2.aar\4f9ccfdee26e3a916e5864d8be2b8c6f\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.2.aar\4f9ccfdee26e3a916e5864d8be2b8c6f\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.2.aar\70e52fba4ab3e65d1e9e7e39fff3f999\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.2.aar\70e52fba4ab3e65d1e9e7e39fff3f999\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.6.2.aar\0de9baabc0c10ebdaa9f0a2d1d82edb9\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.6.2.aar\0de9baabc0c10ebdaa9f0a2d1d82edb9\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.2.aar\05dedecab84cf878300d732b9e30367a\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.2.aar\05dedecab84cf878300d732b9e30367a\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-common-11.6.2.aar\c5189e1214f05cba5b6856e2a0100771\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-common:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-common-11.6.2.aar\c5189e1214f05cba5b6856e2a0100771\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.6.2.aar\4d00d1aaaec4e706758b3aec443b0e43\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.6.2.aar\4d00d1aaaec4e706758b3aec443b0e43\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.2.aar\634875bff1239be76d112c136e011555\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.2.aar\634875bff1239be76d112c136e011555\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.2.aar\be6e86fb4576e27cf0f05dd1c4aa3ed2\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.2.aar\be6e86fb4576e27cf0f05dd1c4aa3ed2\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.2.aar\717893864c647d59e165cc29754f4fa2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.2.aar\717893864c647d59e165cc29754f4fa2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.2.aar\753937b91b166c9b97bfdc1b171e5353\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.2.aar\753937b91b166c9b97bfdc1b171e5353\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.2.aar\516be5786a9eb17e9621e4787d12e55a\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.2.aar\516be5786a9eb17e9621e4787d12e55a\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.2.aar\906995a9b5b86fcd5ec9189028301bbf\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.2.aar\906995a9b5b86fcd5ec9189028301bbf\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.2.aar\729fdaf20a10b07d88298fe3a7f3f846\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.2.aar\729fdaf20a10b07d88298fe3a7f3f846\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:customtabs:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\customtabs-26.0.2.aar\6cc254d0835a69c85b6c6a4e6d3dc298\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\customtabs-26.0.2.aar\6cc254d0835a69c85b6c6a4e6d3dc298\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.2.aar\4a316cbf96ad36d70816903e28f6cf74\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.2.aar\4a316cbf96ad36d70816903e28f6cf74\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.2.aar\016e7f4eba89c02ae9502f75e54ca02c\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.2.aar\016e7f4eba89c02ae9502f75e54ca02c\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:exifinterface:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\exifinterface-26.0.2.aar\a47ffe15fd34edc9ab025a85ef2f53c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\exifinterface-26.0.2.aar\a47ffe15fd34edc9ab025a85ef2f53c7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.6.2.aar\2b460d096bebbc90d2a72a244e93abee\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.6.2.aar\2b460d096bebbc90d2a72a244e93abee\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-analytics-license:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-analytics-license-11.6.2.aar\2cba367f3e4ad45f33a25c6387bf6110\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-analytics-license:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-analytics-license-11.6.2.aar\2cba367f3e4ad45f33a25c6387bf6110\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-gcm-license:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-gcm-license-11.6.2.aar\703321f7b5da8b713b5a83868438460e\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-gcm-license:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-gcm-license-11.6.2.aar\703321f7b5da8b713b5a83868438460e\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-messaging-license:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-messaging-license-11.6.2.aar\c46e3af6258bd0434ffe919e4d217a00\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-messaging-license:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-messaging-license-11.6.2.aar\c46e3af6258bd0434ffe919e4d217a00\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.6.2.aar\a6ba7764a224af2f03bb476f450da429\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.6.2.aar\a6ba7764a224af2f03bb476f450da429\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.2.aar\e5220bd7970c087ef65b5a2e969a86ab\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.2.aar\e5220bd7970c087ef65b5a2e969a86ab\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-license-11.6.2.aar\ad272229ddd234f455fb075d0d2c890b\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-license-11.6.2.aar\ad272229ddd234f455fb075d0d2c890b\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-license-11.6.2.aar\e96189ecac8dbbf594848847d653392d\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-license-11.6.2.aar\e96189ecac8dbbf594848847d653392d\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-iid-license:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-iid-license-11.6.2.aar\fa66c251d1af76e9684f8a1ef3abded8\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-iid-license:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-iid-license-11.6.2.aar\fa66c251d1af76e9684f8a1ef3abded8\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-iid-license:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.6.2.aar\813193e29c444628858bc0d3f244b8b6\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-iid-license:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.6.2.aar\813193e29c444628858bc0d3f244b8b6\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.6.2.aar\9c5aae3f7c85fa45ece0536df4b5cf64\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.6.2.aar\9c5aae3f7c85fa45ece0536df4b5cf64\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.6.2.aar\4a4443b043aafb936e16ffffd739a40e\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.6.2.aar\4a4443b043aafb936e16ffffd739a40e\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.6.2.aar\791b303936857c0e2086a68bb7a0d25a\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.6.2.aar\791b303936857c0e2086a68bb7a0d25a\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.6.2.aar\7d07e0de5525def9e73444a0ac69f80c\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.6.2.aar\7d07e0de5525def9e73444a0ac69f80c\AndroidManifest.xml:4:5-43
+INJECTED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml
+INJECTED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\design-26.0.2.aar\cc37ae12d9a8c5633c14b0c46e2bb40b\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml
+		INJECTED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml
+		ADDED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml
+		INJECTED from F:\wildnet projject\androidtaxipassenger\app\src\main\AndroidManifest.xml
+activity#com.paypal.android.sdk.payments.PayPalFuturePaymentActivity
+ADDED from [com.paypal.sdk:paypal-android-sdk:2.15.3] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\paypal-android-sdk-2.15.3.aar\ecc01c7e2f4f8ebd2dcb31a87d53b27f\AndroidManifest.xml:17:9-96
+	android:name
+		ADDED from [com.paypal.sdk:paypal-android-sdk:2.15.3] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\paypal-android-sdk-2.15.3.aar\ecc01c7e2f4f8ebd2dcb31a87d53b27f\AndroidManifest.xml:17:19-93
+activity#com.paypal.android.sdk.payments.FuturePaymentConsentActivity
+ADDED from [com.paypal.sdk:paypal-android-sdk:2.15.3] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\paypal-android-sdk-2.15.3.aar\ecc01c7e2f4f8ebd2dcb31a87d53b27f\AndroidManifest.xml:18:9-97
+	android:name
+		ADDED from [com.paypal.sdk:paypal-android-sdk:2.15.3] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\paypal-android-sdk-2.15.3.aar\ecc01c7e2f4f8ebd2dcb31a87d53b27f\AndroidManifest.xml:18:19-94
+activity#com.paypal.android.sdk.payments.FuturePaymentInfoActivity
+ADDED from [com.paypal.sdk:paypal-android-sdk:2.15.3] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\paypal-android-sdk-2.15.3.aar\ecc01c7e2f4f8ebd2dcb31a87d53b27f\AndroidManifest.xml:19:9-94
+	android:name
+		ADDED from [com.paypal.sdk:paypal-android-sdk:2.15.3] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\paypal-android-sdk-2.15.3.aar\ecc01c7e2f4f8ebd2dcb31a87d53b27f\AndroidManifest.xml:19:19-91
+activity#com.paypal.android.sdk.payments.PayPalProfileSharingActivity
+ADDED from [com.paypal.sdk:paypal-android-sdk:2.15.3] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\paypal-android-sdk-2.15.3.aar\ecc01c7e2f4f8ebd2dcb31a87d53b27f\AndroidManifest.xml:20:9-97
+	android:name
+		ADDED from [com.paypal.sdk:paypal-android-sdk:2.15.3] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\paypal-android-sdk-2.15.3.aar\ecc01c7e2f4f8ebd2dcb31a87d53b27f\AndroidManifest.xml:20:19-94
+activity#com.paypal.android.sdk.payments.ProfileSharingConsentActivity
+ADDED from [com.paypal.sdk:paypal-android-sdk:2.15.3] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\paypal-android-sdk-2.15.3.aar\ecc01c7e2f4f8ebd2dcb31a87d53b27f\AndroidManifest.xml:21:9-98
+	android:name
+		ADDED from [com.paypal.sdk:paypal-android-sdk:2.15.3] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\paypal-android-sdk-2.15.3.aar\ecc01c7e2f4f8ebd2dcb31a87d53b27f\AndroidManifest.xml:21:19-95
+activity#com.stripe.android.view.AddSourceActivity
+ADDED from [com.stripe:stripe-android:6.0.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\stripe-android-6.0.0.aar\2d37e99abd6dd085a3e151ec895e70f4\AndroidManifest.xml:12:9-16:20
+	android:windowSoftInputMode
+		ADDED from [com.stripe:stripe-android:6.0.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\stripe-android-6.0.0.aar\2d37e99abd6dd085a3e151ec895e70f4\AndroidManifest.xml:15:13-55
+	android:theme
+		ADDED from [com.stripe:stripe-android:6.0.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\stripe-android-6.0.0.aar\2d37e99abd6dd085a3e151ec895e70f4\AndroidManifest.xml:14:13-54
+	android:name
+		ADDED from [com.stripe:stripe-android:6.0.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\stripe-android-6.0.0.aar\2d37e99abd6dd085a3e151ec895e70f4\AndroidManifest.xml:13:13-69
+activity#com.stripe.android.view.PaymentMethodsActivity
+ADDED from [com.stripe:stripe-android:6.0.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\stripe-android-6.0.0.aar\2d37e99abd6dd085a3e151ec895e70f4\AndroidManifest.xml:17:9-20:20
+	android:theme
+		ADDED from [com.stripe:stripe-android:6.0.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\stripe-android-6.0.0.aar\2d37e99abd6dd085a3e151ec895e70f4\AndroidManifest.xml:19:13-54
+	android:name
+		ADDED from [com.stripe:stripe-android:6.0.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\stripe-android-6.0.0.aar\2d37e99abd6dd085a3e151ec895e70f4\AndroidManifest.xml:18:13-74
+activity#com.stripe.android.view.PaymentFlowActivity
+ADDED from [com.stripe:stripe-android:6.0.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\stripe-android-6.0.0.aar\2d37e99abd6dd085a3e151ec895e70f4\AndroidManifest.xml:21:9-24:20
+	android:theme
+		ADDED from [com.stripe:stripe-android:6.0.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\stripe-android-6.0.0.aar\2d37e99abd6dd085a3e151ec895e70f4\AndroidManifest.xml:23:13-54
+	android:name
+		ADDED from [com.stripe:stripe-android:6.0.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\stripe-android-6.0.0.aar\2d37e99abd6dd085a3e151ec895e70f4\AndroidManifest.xml:22:13-71
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\design-26.0.2.aar\cc37ae12d9a8c5633c14b0c46e2bb40b\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.2.aar\415f7d5f21fe37b54e805a2e2a333956\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.2.aar\415f7d5f21fe37b54e805a2e2a333956\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.2.aar\333b73be5db78630e564bde5b6fe59d5\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.2.aar\333b73be5db78630e564bde5b6fe59d5\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.0.2.aar\9d1c9f30208a4b7a9e198f70b6a8c364\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.0.2.aar\9d1c9f30208a4b7a9e198f70b6a8c364\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\transition-26.0.2.aar\840f7ac8a5a8c4eca820b9cfad95dae2\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\transition-26.0.2.aar\840f7ac8a5a8c4eca820b9cfad95dae2\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.2.aar\be6e86fb4576e27cf0f05dd1c4aa3ed2\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.2.aar\be6e86fb4576e27cf0f05dd1c4aa3ed2\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.2.aar\717893864c647d59e165cc29754f4fa2\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.2.aar\717893864c647d59e165cc29754f4fa2\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.2.aar\753937b91b166c9b97bfdc1b171e5353\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.2.aar\753937b91b166c9b97bfdc1b171e5353\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-fragment:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.2.aar\516be5786a9eb17e9621e4787d12e55a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.2.aar\516be5786a9eb17e9621e4787d12e55a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.2.aar\906995a9b5b86fcd5ec9189028301bbf\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.2.aar\906995a9b5b86fcd5ec9189028301bbf\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.2.aar\729fdaf20a10b07d88298fe3a7f3f846\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.2.aar\729fdaf20a10b07d88298fe3a7f3f846\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:customtabs:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\customtabs-26.0.2.aar\6cc254d0835a69c85b6c6a4e6d3dc298\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:customtabs:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\customtabs-26.0.2.aar\6cc254d0835a69c85b6c6a4e6d3dc298\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.2.aar\4a316cbf96ad36d70816903e28f6cf74\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.2.aar\4a316cbf96ad36d70816903e28f6cf74\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.2.aar\016e7f4eba89c02ae9502f75e54ca02c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.2.aar\016e7f4eba89c02ae9502f75e54ca02c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:exifinterface:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\exifinterface-26.0.2.aar\a47ffe15fd34edc9ab025a85ef2f53c7\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:exifinterface:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\exifinterface-26.0.2.aar\a47ffe15fd34edc9ab025a85ef2f53c7\AndroidManifest.xml:23:9-25:38
+	android:value
+		ADDED from [com.android.support:design:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\design-26.0.2.aar\cc37ae12d9a8c5633c14b0c46e2bb40b\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.0.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\design-26.0.2.aar\cc37ae12d9a8c5633c14b0c46e2bb40b\AndroidManifest.xml:27:13-51
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:4.28.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\facebook-common-4.28.0.aar\fe3eb43ec8a9f88bc474dd9b7f04dcd7\AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.28.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\facebook-common-4.28.0.aar\fe3eb43ec8a9f88bc474dd9b7f04dcd7\AndroidManifest.xml:33:19-68
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.2.aar\954af1ad945239d06b882924b70ce966\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.2.aar\954af1ad945239d06b882924b70ce966\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.2.aar\954af1ad945239d06b882924b70ce966\AndroidManifest.xml:21:52-75
+receiver#com.google.android.gms.analytics.AnalyticsReceiver
+ADDED from [com.google.android.gms:play-services-analytics:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.6.2.aar\5cc6309cb0bb823e738fac35101935b6\AndroidManifest.xml:27:9-28:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.6.2.aar\5cc6309cb0bb823e738fac35101935b6\AndroidManifest.xml:27:85-107
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.6.2.aar\5cc6309cb0bb823e738fac35101935b6\AndroidManifest.xml:27:108-132
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.6.2.aar\5cc6309cb0bb823e738fac35101935b6\AndroidManifest.xml:27:19-84
+service#com.google.android.gms.analytics.AnalyticsService
+ADDED from [com.google.android.gms:play-services-analytics:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.6.2.aar\5cc6309cb0bb823e738fac35101935b6\AndroidManifest.xml:29:9-132
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.6.2.aar\5cc6309cb0bb823e738fac35101935b6\AndroidManifest.xml:29:83-105
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.6.2.aar\5cc6309cb0bb823e738fac35101935b6\AndroidManifest.xml:29:106-130
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.6.2.aar\5cc6309cb0bb823e738fac35101935b6\AndroidManifest.xml:29:18-82
+service#com.google.android.gms.analytics.AnalyticsJobService
+ADDED from [com.google.android.gms:play-services-analytics:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.6.2.aar\5cc6309cb0bb823e738fac35101935b6\AndroidManifest.xml:30:9-192
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.6.2.aar\5cc6309cb0bb823e738fac35101935b6\AndroidManifest.xml:30:143-165
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.6.2.aar\5cc6309cb0bb823e738fac35101935b6\AndroidManifest.xml:30:166-190
+	android:permission
+		ADDED from [com.google.android.gms:play-services-analytics:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.6.2.aar\5cc6309cb0bb823e738fac35101935b6\AndroidManifest.xml:30:86-142
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.6.2.aar\5cc6309cb0bb823e738fac35101935b6\AndroidManifest.xml:30:18-85
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.6.2.aar\2dcc9fcc913fe5ca24ce9ee66d403c59\AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.6.2.aar\2dcc9fcc913fe5ca24ce9ee66d403c59\AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.6.2.aar\2dcc9fcc913fe5ca24ce9ee66d403c59\AndroidManifest.xml:23:18-87
+activity#com.twitter.sdk.android.tweetcomposer.ComposerActivity
+ADDED from [com.twitter.sdk.android:tweet-composer:1.0.3] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\tweet-composer-1.0.3.aar\9d89c10886b4e04303af9afb46780aeb\AndroidManifest.xml:28:9-31:71
+	android:windowSoftInputMode
+		ADDED from [com.twitter.sdk.android:tweet-composer:1.0.3] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\tweet-composer-1.0.3.aar\9d89c10886b4e04303af9afb46780aeb\AndroidManifest.xml:31:13-68
+	android:exported
+		ADDED from [com.twitter.sdk.android:tweet-composer:1.0.3] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\tweet-composer-1.0.3.aar\9d89c10886b4e04303af9afb46780aeb\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.twitter.sdk.android:tweet-composer:1.0.3] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\tweet-composer-1.0.3.aar\9d89c10886b4e04303af9afb46780aeb\AndroidManifest.xml:29:13-82
+service#com.twitter.sdk.android.tweetcomposer.TweetUploadService
+ADDED from [com.twitter.sdk.android:tweet-composer:1.0.3] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\tweet-composer-1.0.3.aar\9d89c10886b4e04303af9afb46780aeb\AndroidManifest.xml:33:9-36:40
+	android:enabled
+		ADDED from [com.twitter.sdk.android:tweet-composer:1.0.3] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\tweet-composer-1.0.3.aar\9d89c10886b4e04303af9afb46780aeb\AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from [com.twitter.sdk.android:tweet-composer:1.0.3] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\tweet-composer-1.0.3.aar\9d89c10886b4e04303af9afb46780aeb\AndroidManifest.xml:36:13-37
+	android:name
+		ADDED from [com.twitter.sdk.android:tweet-composer:1.0.3] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\tweet-composer-1.0.3.aar\9d89c10886b4e04303af9afb46780aeb\AndroidManifest.xml:34:13-84
+activity#com.twitter.sdk.android.tweetui.PlayerActivity
+ADDED from [com.twitter.sdk.android:tweet-ui:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\tweet-ui-1.10.0.aar\e2c4cae1e97c63d6459b04cea120e718\AndroidManifest.xml:28:9-31:49
+	android:configChanges
+		ADDED from [com.twitter.sdk.android:tweet-ui:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\tweet-ui-1.10.0.aar\e2c4cae1e97c63d6459b04cea120e718\AndroidManifest.xml:30:13-74
+	android:theme
+		ADDED from [com.twitter.sdk.android:tweet-ui:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\tweet-ui-1.10.0.aar\e2c4cae1e97c63d6459b04cea120e718\AndroidManifest.xml:31:13-46
+	android:name
+		ADDED from [com.twitter.sdk.android:tweet-ui:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\tweet-ui-1.10.0.aar\e2c4cae1e97c63d6459b04cea120e718\AndroidManifest.xml:29:13-74
+activity#com.twitter.sdk.android.tweetui.GalleryActivity
+ADDED from [com.twitter.sdk.android:tweet-ui:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\tweet-ui-1.10.0.aar\e2c4cae1e97c63d6459b04cea120e718\AndroidManifest.xml:32:9-34:49
+	android:theme
+		ADDED from [com.twitter.sdk.android:tweet-ui:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\tweet-ui-1.10.0.aar\e2c4cae1e97c63d6459b04cea120e718\AndroidManifest.xml:34:13-46
+	android:name
+		ADDED from [com.twitter.sdk.android:tweet-ui:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\tweet-ui-1.10.0.aar\e2c4cae1e97c63d6459b04cea120e718\AndroidManifest.xml:33:13-75
+activity#org.acra.dialog.CrashReportDialog
+ADDED from [ch.acra:acra:4.9.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\acra-4.9.2.aar\3f84ee0fce034c10395f908c1da024ad\AndroidManifest.xml:40:9-241
+	android:process
+		ADDED from [ch.acra:acra:4.9.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\acra-4.9.2.aar\3f84ee0fce034c10395f908c1da024ad\AndroidManifest.xml:40:172-195
+	android:excludeFromRecents
+		ADDED from [ch.acra:acra:4.9.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\acra-4.9.2.aar\3f84ee0fce034c10395f908c1da024ad\AndroidManifest.xml:40:19-52
+	android:launchMode
+		ADDED from [ch.acra:acra:4.9.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\acra-4.9.2.aar\3f84ee0fce034c10395f908c1da024ad\AndroidManifest.xml:40:87-122
+	android:theme
+		ADDED from [ch.acra:acra:4.9.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\acra-4.9.2.aar\3f84ee0fce034c10395f908c1da024ad\AndroidManifest.xml:40:196-239
+	android:finishOnTaskLaunch
+		ADDED from [ch.acra:acra:4.9.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\acra-4.9.2.aar\3f84ee0fce034c10395f908c1da024ad\AndroidManifest.xml:40:53-86
+	android:name
+		ADDED from [ch.acra:acra:4.9.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\acra-4.9.2.aar\3f84ee0fce034c10395f908c1da024ad\AndroidManifest.xml:40:123-171
+service#org.acra.sender.SenderService
+ADDED from [ch.acra:acra:4.9.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\acra-4.9.2.aar\3f84ee0fce034c10395f908c1da024ad\AndroidManifest.xml:42:9-113
+	android:process
+		ADDED from [ch.acra:acra:4.9.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\acra-4.9.2.aar\3f84ee0fce034c10395f908c1da024ad\AndroidManifest.xml:42:88-111
+	android:exported
+		ADDED from [ch.acra:acra:4.9.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\acra-4.9.2.aar\3f84ee0fce034c10395f908c1da024ad\AndroidManifest.xml:42:18-42
+	android:name
+		ADDED from [ch.acra:acra:4.9.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\acra-4.9.2.aar\3f84ee0fce034c10395f908c1da024ad\AndroidManifest.xml:42:43-87
+activity#com.digits.sdk.android.PhoneNumberActivity
+ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:28:9-33:58
+	android:windowSoftInputMode
+		ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:33:13-55
+	android:exported
+		ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:31:13-37
+	android:configChanges
+		ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:30:13-59
+	android:taskAffinity
+		ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:32:13-58
+	android:name
+		ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:29:13-70
+activity#com.digits.sdk.android.ConfirmationCodeActivity
+ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:34:9-39:58
+	android:windowSoftInputMode
+		ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:39:13-55
+	android:exported
+		ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:37:13-37
+	android:configChanges
+		ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:36:13-59
+	android:taskAffinity
+		ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:38:13-58
+	android:name
+		ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:35:13-75
+activity#com.digits.sdk.android.LoginCodeActivity
+ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:40:9-45:58
+	android:windowSoftInputMode
+		ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:45:13-55
+	android:exported
+		ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:43:13-37
+	android:configChanges
+		ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:42:13-59
+	android:taskAffinity
+		ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:44:13-58
+	android:name
+		ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:41:13-68
+activity#com.digits.sdk.android.PinCodeActivity
+ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:46:9-51:58
+	android:windowSoftInputMode
+		ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:51:13-55
+	android:exported
+		ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:49:13-37
+	android:configChanges
+		ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:48:13-59
+	android:taskAffinity
+		ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:50:13-58
+	android:name
+		ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:47:13-66
+activity#com.digits.sdk.android.FailureActivity
+ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:52:9-56:61
+	android:exported
+		ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:55:13-37
+	android:configChanges
+		ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:54:13-59
+	android:taskAffinity
+		ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:56:13-58
+	android:name
+		ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:53:13-66
+activity#com.digits.sdk.android.ContactsActivity
+ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:57:9-60:40
+	android:exported
+		ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:60:13-37
+	android:configChanges
+		ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:59:13-59
+	android:name
+		ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:58:13-67
+activity#com.digits.sdk.android.EmailRequestActivity
+ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:61:9-66:58
+	android:windowSoftInputMode
+		ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:66:13-55
+	android:exported
+		ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:64:13-37
+	android:configChanges
+		ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:63:13-59
+	android:taskAffinity
+		ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:65:13-58
+	android:name
+		ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:62:13-71
+activity#com.digits.sdk.android.PhoneNumberActionBarActivity
+ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:67:9-72:58
+	android:windowSoftInputMode
+		ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:72:13-55
+	android:exported
+		ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:70:13-37
+	android:configChanges
+		ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:69:13-59
+	android:taskAffinity
+		ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:71:13-58
+	android:name
+		ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:68:13-79
+activity#com.digits.sdk.android.ConfirmationCodeActionBarActivity
+ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:73:9-78:58
+	android:windowSoftInputMode
+		ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:78:13-55
+	android:exported
+		ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:76:13-37
+	android:configChanges
+		ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:75:13-59
+	android:taskAffinity
+		ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:77:13-58
+	android:name
+		ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:74:13-84
+activity#com.digits.sdk.android.LoginCodeActionBarActivity
+ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:79:9-84:58
+	android:windowSoftInputMode
+		ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:84:13-55
+	android:exported
+		ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:82:13-37
+	android:configChanges
+		ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:81:13-59
+	android:taskAffinity
+		ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:83:13-58
+	android:name
+		ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:80:13-77
+activity#com.digits.sdk.android.FailureActionBarActivity
+ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:85:9-89:61
+	android:exported
+		ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:88:13-37
+	android:configChanges
+		ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:87:13-59
+	android:taskAffinity
+		ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:89:13-58
+	android:name
+		ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:86:13-75
+activity#com.digits.sdk.android.ContactsActionBarActivity
+ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:90:9-93:40
+	android:exported
+		ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:93:13-37
+	android:configChanges
+		ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:92:13-59
+	android:name
+		ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:91:13-76
+activity#com.digits.sdk.android.PinCodeActionBarActivity
+ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:94:9-99:58
+	android:windowSoftInputMode
+		ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:99:13-55
+	android:exported
+		ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:97:13-37
+	android:configChanges
+		ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:96:13-59
+	android:taskAffinity
+		ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:98:13-58
+	android:name
+		ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:95:13-75
+activity#com.digits.sdk.android.EmailRequestActionBarActivity
+ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:100:9-105:58
+	android:windowSoftInputMode
+		ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:105:13-55
+	android:exported
+		ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:103:13-37
+	android:configChanges
+		ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:102:13-59
+	android:taskAffinity
+		ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:104:13-58
+	android:name
+		ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:101:13-80
+service#com.digits.sdk.android.ContactsUploadService
+ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:107:9-110:40
+	android:enabled
+		ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:109:13-35
+	android:exported
+		ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:110:13-37
+	android:name
+		ADDED from [com.digits.sdk.android:digits:1.10.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\digits-1.10.0.aar\0bfbb147d71a8192decd15866faefb53\AndroidManifest.xml:108:13-72
+activity#com.twitter.sdk.android.core.identity.OAuthActivity
+ADDED from [com.twitter.sdk.android:twitter-core:1.6.5] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\twitter-core-1.6.5.aar\4878fa805596fcf18c7a57a62a74b94d\AndroidManifest.xml:28:9-32:40
+	android:excludeFromRecents
+		ADDED from [com.twitter.sdk.android:twitter-core:1.6.5] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\twitter-core-1.6.5.aar\4878fa805596fcf18c7a57a62a74b94d\AndroidManifest.xml:31:13-46
+	android:exported
+		ADDED from [com.twitter.sdk.android:twitter-core:1.6.5] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\twitter-core-1.6.5.aar\4878fa805596fcf18c7a57a62a74b94d\AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.twitter.sdk.android:twitter-core:1.6.5] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\twitter-core-1.6.5.aar\4878fa805596fcf18c7a57a62a74b94d\AndroidManifest.xml:30:13-59
+	android:name
+		ADDED from [com.twitter.sdk.android:twitter-core:1.6.5] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\twitter-core-1.6.5.aar\4878fa805596fcf18c7a57a62a74b94d\AndroidManifest.xml:29:13-79
+activity#com.twitter.sdk.android.core.identity.ShareEmailActivity
+ADDED from [com.twitter.sdk.android:twitter-core:1.6.5] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\twitter-core-1.6.5.aar\4878fa805596fcf18c7a57a62a74b94d\AndroidManifest.xml:33:9-39:48
+	android:label
+		ADDED from [com.twitter.sdk.android:twitter-core:1.6.5] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\twitter-core-1.6.5.aar\4878fa805596fcf18c7a57a62a74b94d\AndroidManifest.xml:39:13-45
+	android:excludeFromRecents
+		ADDED from [com.twitter.sdk.android:twitter-core:1.6.5] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\twitter-core-1.6.5.aar\4878fa805596fcf18c7a57a62a74b94d\AndroidManifest.xml:36:13-46
+	android:exported
+		ADDED from [com.twitter.sdk.android:twitter-core:1.6.5] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\twitter-core-1.6.5.aar\4878fa805596fcf18c7a57a62a74b94d\AndroidManifest.xml:37:13-37
+	android:configChanges
+		ADDED from [com.twitter.sdk.android:twitter-core:1.6.5] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\twitter-core-1.6.5.aar\4878fa805596fcf18c7a57a62a74b94d\AndroidManifest.xml:35:13-59
+	android:icon
+		ADDED from [com.twitter.sdk.android:twitter-core:1.6.5] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\twitter-core-1.6.5.aar\4878fa805596fcf18c7a57a62a74b94d\AndroidManifest.xml:38:13-53
+	android:name
+		ADDED from [com.twitter.sdk.android:twitter-core:1.6.5] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\twitter-core-1.6.5.aar\4878fa805596fcf18c7a57a62a74b94d\AndroidManifest.xml:34:13-84
+uses-permission#android.permission.VIBRATE
+ADDED from [io.card:android-sdk:5.5.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\android-sdk-5.5.0.aar\afd842b4230729984e2ab5f15ebe7b8a\AndroidManifest.xml:10:5-66
+	android:name
+		ADDED from [io.card:android-sdk:5.5.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\android-sdk-5.5.0.aar\afd842b4230729984e2ab5f15ebe7b8a\AndroidManifest.xml:10:22-63
+uses-feature#android.hardware.camera
+ADDED from [io.card:android-sdk:5.5.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\android-sdk-5.5.0.aar\afd842b4230729984e2ab5f15ebe7b8a\AndroidManifest.xml:12:5-14:36
+	android:required
+		ADDED from [io.card:android-sdk:5.5.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\android-sdk-5.5.0.aar\afd842b4230729984e2ab5f15ebe7b8a\AndroidManifest.xml:14:9-33
+	android:name
+		ADDED from [io.card:android-sdk:5.5.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\android-sdk-5.5.0.aar\afd842b4230729984e2ab5f15ebe7b8a\AndroidManifest.xml:13:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [io.card:android-sdk:5.5.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\android-sdk-5.5.0.aar\afd842b4230729984e2ab5f15ebe7b8a\AndroidManifest.xml:15:5-17:36
+	android:required
+		ADDED from [io.card:android-sdk:5.5.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\android-sdk-5.5.0.aar\afd842b4230729984e2ab5f15ebe7b8a\AndroidManifest.xml:17:9-33
+	android:name
+		ADDED from [io.card:android-sdk:5.5.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\android-sdk-5.5.0.aar\afd842b4230729984e2ab5f15ebe7b8a\AndroidManifest.xml:16:9-57
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:4.28.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\facebook-core-4.28.0.aar\b9ceb27d46d333d4e7c8e7cb89ac145c\AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:4.28.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\facebook-core-4.28.0.aar\b9ceb27d46d333d4e7c8e7cb89ac145c\AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.28.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\facebook-core-4.28.0.aar\b9ceb27d46d333d4e7c8e7cb89ac145c\AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.28.0] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\facebook-core-4.28.0.aar\b9ceb27d46d333d4e7c8e7cb89ac145c\AndroidManifest.xml:40:13-70
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.2.aar\4f9ccfdee26e3a916e5864d8be2b8c6f\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.2.aar\4f9ccfdee26e3a916e5864d8be2b8c6f\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.2.aar\4f9ccfdee26e3a916e5864d8be2b8c6f\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.2.aar\4f9ccfdee26e3a916e5864d8be2b8c6f\AndroidManifest.xml:19:19-85
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.2.aar\70e52fba4ab3e65d1e9e7e39fff3f999\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.6.2.aar\0de9baabc0c10ebdaa9f0a2d1d82edb9\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.6.2.aar\0de9baabc0c10ebdaa9f0a2d1d82edb9\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.2.aar\70e52fba4ab3e65d1e9e7e39fff3f999\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.2.aar\70e52fba4ab3e65d1e9e7e39fff3f999\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.2.aar\70e52fba4ab3e65d1e9e7e39fff3f999\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.2.aar\70e52fba4ab3e65d1e9e7e39fff3f999\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.2.aar\70e52fba4ab3e65d1e9e7e39fff3f999\AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.2.aar\70e52fba4ab3e65d1e9e7e39fff3f999\AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.2.aar\70e52fba4ab3e65d1e9e7e39fff3f999\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.2.aar\70e52fba4ab3e65d1e9e7e39fff3f999\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.2.aar\70e52fba4ab3e65d1e9e7e39fff3f999\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.2.aar\70e52fba4ab3e65d1e9e7e39fff3f999\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.2.aar\70e52fba4ab3e65d1e9e7e39fff3f999\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.2.aar\70e52fba4ab3e65d1e9e7e39fff3f999\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.6.2.aar\0de9baabc0c10ebdaa9f0a2d1d82edb9\AndroidManifest.xml:27:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.6.2.aar\0de9baabc0c10ebdaa9f0a2d1d82edb9\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.2.aar\70e52fba4ab3e65d1e9e7e39fff3f999\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.2.aar\70e52fba4ab3e65d1e9e7e39fff3f999\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.2.aar\70e52fba4ab3e65d1e9e7e39fff3f999\AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.2.aar\70e52fba4ab3e65d1e9e7e39fff3f999\AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.2.aar\70e52fba4ab3e65d1e9e7e39fff3f999\AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.2.aar\70e52fba4ab3e65d1e9e7e39fff3f999\AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.2.aar\70e52fba4ab3e65d1e9e7e39fff3f999\AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.2.aar\70e52fba4ab3e65d1e9e7e39fff3f999\AndroidManifest.xml:33:16-90
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.2.aar\05dedecab84cf878300d732b9e30367a\AndroidManifest.xml:25:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.2.aar\05dedecab84cf878300d732b9e30367a\AndroidManifest.xml:25:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.2.aar\05dedecab84cf878300d732b9e30367a\AndroidManifest.xml:25:17-71
+permission#com.taxi.passenger.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.2.aar\05dedecab84cf878300d732b9e30367a\AndroidManifest.xml:25:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.2.aar\05dedecab84cf878300d732b9e30367a\AndroidManifest.xml:25:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.2.aar\05dedecab84cf878300d732b9e30367a\AndroidManifest.xml:25:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.2.aar\05dedecab84cf878300d732b9e30367a\AndroidManifest.xml:27:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.2.aar\05dedecab84cf878300d732b9e30367a\AndroidManifest.xml:27:22-76
+uses-permission#com.taxi.passenger.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.2.aar\05dedecab84cf878300d732b9e30367a\AndroidManifest.xml:27:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.2.aar\05dedecab84cf878300d732b9e30367a\AndroidManifest.xml:27:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.2.aar\05dedecab84cf878300d732b9e30367a\AndroidManifest.xml:31:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.2.aar\05dedecab84cf878300d732b9e30367a\AndroidManifest.xml:31:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.2.aar\05dedecab84cf878300d732b9e30367a\AndroidManifest.xml:31:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.2.aar\05dedecab84cf878300d732b9e30367a\AndroidManifest.xml:31:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.2.aar\05dedecab84cf878300d732b9e30367a\AndroidManifest.xml:32:13-35:29
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.2.aar\05dedecab84cf878300d732b9e30367a\AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.2.aar\05dedecab84cf878300d732b9e30367a\AndroidManifest.xml:34:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.2.aar\05dedecab84cf878300d732b9e30367a\AndroidManifest.xml:40:9-44:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.2.aar\05dedecab84cf878300d732b9e30367a\AndroidManifest.xml:40:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.2.aar\05dedecab84cf878300d732b9e30367a\AndroidManifest.xml:40:18-82
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-common-11.6.2.aar\c5189e1214f05cba5b6856e2a0100771\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-common-11.6.2.aar\c5189e1214f05cba5b6856e2a0100771\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-common-11.6.2.aar\c5189e1214f05cba5b6856e2a0100771\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-common-11.6.2.aar\c5189e1214f05cba5b6856e2a0100771\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\firebase-common-11.6.2.aar\c5189e1214f05cba5b6856e2a0100771\AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.2.aar\634875bff1239be76d112c136e011555\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.2.aar\634875bff1239be76d112c136e011555\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\Jitender kumar\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.2.aar\634875bff1239be76d112c136e011555\AndroidManifest.xml:20:20-65

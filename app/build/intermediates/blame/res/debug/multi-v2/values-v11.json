@@ -1,0 +1,85 @@
+{
+    "logs": [
+        {
+            "outputFile": "F:\\wildnet projject\\androidtaxipassenger\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Jitender kumar\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\415f7d5f21fe37b54e805a2e2a333956\\res\\values-v11\\values-v11.xml",
+                    "from": {
+                        "startLines": "2,8,14,20,26,32,38,39,43,47,48,52,56,57,61,66,71,76,78,80,81,82,136,191",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,474,899,1327,1753,2180,2605,2694,2940,3189,3290,3542,3797,3900,4153,4561,4981,5403,5510,5639,5710,5793,9818,13986",
+                        "endLines": "7,13,19,25,31,37,38,42,46,47,51,55,56,60,65,70,75,77,79,80,81,135,190,191",
+                        "endColumns": "12,12,12,12,12,12,88,12,12,100,12,12,102,12,12,12,12,12,12,70,82,12,12,90",
+                        "endOffsets": "469,894,1322,1748,2175,2600,2689,2935,3184,3285,3537,3792,3895,4148,4556,4976,5398,5505,5634,5705,5788,9813,13981,14072"
+                    },
+                    "to": {
+                        "startLines": "2,8,14,20,26,32,38,39,43,47,48,52,56,57,61,66,71,76,78,104,105,106,160,215",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,474,899,1327,1753,2180,2605,2694,2940,3189,3290,3542,3797,3900,4153,4561,4981,5403,5510,7092,7163,7246,11271,15439",
+                        "endLines": "7,13,19,25,31,37,38,42,46,47,51,55,56,60,65,70,75,77,79,104,105,159,214,215",
+                        "endColumns": "12,12,12,12,12,12,88,12,12,100,12,12,102,12,12,12,12,12,12,70,82,12,12,90",
+                        "endOffsets": "469,894,1322,1748,2175,2600,2689,2935,3184,3285,3537,3792,3895,4148,4556,4976,5398,5505,5634,7158,7241,11266,15434,15525"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Jitender kumar\\.gradle\\caches\\transforms-1\\files-1.1\\tweet-composer-1.0.3.aar\\9d89c10886b4e04303af9afb46780aeb\\res\\values-v11\\values-v11.xml",
+                    "from": {
+                        "startLines": "4,12",
+                        "startColumns": "4,4",
+                        "startOffsets": "236,746",
+                        "endLines": "11,19",
+                        "endColumns": "12,12",
+                        "endOffsets": "741,1257"
+                    },
+                    "to": {
+                        "startLines": "80,88",
+                        "startColumns": "4,4",
+                        "startOffsets": "5639,6149",
+                        "endLines": "87,95",
+                        "endColumns": "12,12",
+                        "endOffsets": "6144,6660"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Jitender kumar\\.gradle\\caches\\transforms-1\\files-1.1\\digits-1.10.0.aar\\0bfbb147d71a8192decd15866faefb53\\res\\values-v11\\values-v11.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "227",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "384"
+                    },
+                    "to": {
+                        "startLines": "96",
+                        "startColumns": "4",
+                        "startOffsets": "6665",
+                        "endLines": "98",
+                        "endColumns": "12",
+                        "endOffsets": "6822"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Jitender kumar\\.gradle\\caches\\transforms-1\\files-1.1\\tweet-ui-1.10.0.aar\\e2c4cae1e97c63d6459b04cea120e718\\res\\values-v11\\values-v11.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "230",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "490"
+                    },
+                    "to": {
+                        "startLines": "99",
+                        "startColumns": "4",
+                        "startOffsets": "6827",
+                        "endLines": "103",
+                        "endColumns": "12",
+                        "endOffsets": "7087"
+                    }
+                }
+            ]
+        }
+    ]
+}
